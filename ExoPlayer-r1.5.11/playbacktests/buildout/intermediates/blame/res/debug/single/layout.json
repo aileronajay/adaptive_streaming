@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/playbacktests/buildout/intermediates/res/merged/debug/layout/host_activity.xml",
+        "source": "/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/playbacktests/src/main/res/layout/host_activity.xml"
+    },
+    {
+        "merged": "/home/gauravbg/Downloads/ExoPlayer-r1.5.11/playbacktests/buildout/intermediates/res/merged/debug/layout/host_activity.xml",
+        "source": "/home/gauravbg/Downloads/ExoPlayer-r1.5.11/playbacktests/src/main/res/layout/host_activity.xml"
+    }
+]

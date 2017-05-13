@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/demo_ext/buildout/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/demo_ext/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 745,
+                        "endColumn": 55,
+                        "endOffset": 798
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/gauravbg/Downloads/ExoPlayer-r1.5.11/demo_ext/buildout/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/home/gauravbg/Downloads/ExoPlayer-r1.5.11/demo_ext/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 745,
+                        "endColumn": 55,
+                        "endOffset": 798
+                    }
+                }
+            }
+        ]
+    }
+]

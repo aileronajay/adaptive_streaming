@@ -1,0 +1,3 @@
+int id root 0x7f030000
+int id surface_view 0x7f030001
+int layout host_activity 0x7f020000

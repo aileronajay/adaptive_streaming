@@ -1,0 +1,62 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/playbacktests/src/main/AndroidManifest.xml:17:1-43:12
+	package
+		ADDED from /Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/playbacktests/src/main/AndroidManifest.xml:19:5-57
+	android:versionName
+		ADDED from /Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/playbacktests/src/main/AndroidManifest.xml:21:5-33
+		INJECTED from /Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/playbacktests/src/main/AndroidManifest.xml
+		INJECTED from /Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/playbacktests/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/playbacktests/src/main/AndroidManifest.xml:18:5-51
+	android:versionCode
+		ADDED from /Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/playbacktests/src/main/AndroidManifest.xml:20:5-31
+		INJECTED from /Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/playbacktests/src/main/AndroidManifest.xml
+		INJECTED from /Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/playbacktests/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/playbacktests/src/main/AndroidManifest.xml:17:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/playbacktests/src/main/AndroidManifest.xml:23:3-64
+	android:name
+		ADDED from /Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/playbacktests/src/main/AndroidManifest.xml:23:20-62
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/playbacktests/src/main/AndroidManifest.xml:24:3-65
+	android:name
+		ADDED from /Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/playbacktests/src/main/AndroidManifest.xml:24:20-63
+uses-sdk
+ADDED from /Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/playbacktests/src/main/AndroidManifest.xml:26:3-70
+MERGED from [ExoPlayer-r1.5.11:library:unspecified] /Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/library/buildout/intermediates/bundles/default/AndroidManifest.xml:24:5-26:41
+	android:targetSdkVersion
+		ADDED from /Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/playbacktests/src/main/AndroidManifest.xml:26:39-68
+		INJECTED from /Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/playbacktests/src/main/AndroidManifest.xml
+		INJECTED from /Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/playbacktests/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/playbacktests/src/main/AndroidManifest.xml:26:13-38
+		INJECTED from /Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/playbacktests/src/main/AndroidManifest.xml
+		INJECTED from /Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/playbacktests/src/main/AndroidManifest.xml
+application
+ADDED from /Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/playbacktests/src/main/AndroidManifest.xml:28:3-37:17
+	android:debuggable
+		ADDED from /Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/playbacktests/src/main/AndroidManifest.xml:28:16-41
+	tools:ignore
+		ADDED from /Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/playbacktests/src/main/AndroidManifest.xml:30:7-63
+	android:allowBackup
+		ADDED from /Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/playbacktests/src/main/AndroidManifest.xml:29:7-34
+uses-library#android.test.runner
+ADDED from /Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/playbacktests/src/main/AndroidManifest.xml:31:5-55
+	android:name
+		ADDED from /Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/playbacktests/src/main/AndroidManifest.xml:31:19-53
+activity#com.google.android.exoplayer.playbacktests.util.HostActivity
+ADDED from /Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/playbacktests/src/main/AndroidManifest.xml:33:5-35:40
+	android:label
+		ADDED from /Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/playbacktests/src/main/AndroidManifest.xml:35:9-38
+	android:configChanges
+		ADDED from /Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/playbacktests/src/main/AndroidManifest.xml:34:9-70
+	android:name
+		ADDED from /Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/playbacktests/src/main/AndroidManifest.xml:33:15-90
+instrumentation
+ADDED from /Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/playbacktests/src/main/AndroidManifest.xml:39:3-41:62
+	android:targetPackage
+		ADDED from /Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/playbacktests/src/main/AndroidManifest.xml:40:7-73
+	android:name
+		ADDED from /Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/playbacktests/src/main/AndroidManifest.xml:41:7-60

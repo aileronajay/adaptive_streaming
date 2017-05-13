@@ -1,0 +1,24 @@
+Key developments
+1. Understanding the Exo Player architecture
+
+2. Implemented KM adaptive algorithm as KMEvaluator
+
+3. Implemented PID adaptive algorithm as PIDEvaluator
+
+4. Collected results from logs.
+
+
+
+
+How to run
+------------------------
+Server
+-------
+- Set up the server with DASH mpd file and videos
+
+Client
+-------
+- Build the exoplayer along with the libraries
+- Run the application
+- Click on test links to run the video using KM and PID algorithms
+- Run the test links by setting the target server ip in Samples.java 

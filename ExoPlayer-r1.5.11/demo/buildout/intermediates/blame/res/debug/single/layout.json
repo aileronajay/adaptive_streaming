@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/gauravbg/Downloads/ExoPlayer-r1.5.11/demo/buildout/intermediates/res/merged/debug/layout/sample_chooser_activity.xml",
+        "source": "/home/gauravbg/Downloads/ExoPlayer-r1.5.11/demo/src/main/res/layout/sample_chooser_activity.xml"
+    },
+    {
+        "merged": "/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/demo/buildout/intermediates/res/merged/debug/layout/player_activity.xml",
+        "source": "/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/demo/src/main/res/layout/player_activity.xml"
+    },
+    {
+        "merged": "/home/gauravbg/Downloads/ExoPlayer-r1.5.11/demo/buildout/intermediates/res/merged/debug/layout/sample_chooser_inline_header.xml",
+        "source": "/home/gauravbg/Downloads/ExoPlayer-r1.5.11/demo/src/main/res/layout/sample_chooser_inline_header.xml"
+    },
+    {
+        "merged": "/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/demo/buildout/intermediates/res/merged/debug/layout/sample_chooser_inline_header.xml",
+        "source": "/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/demo/src/main/res/layout/sample_chooser_inline_header.xml"
+    },
+    {
+        "merged": "/home/gauravbg/Downloads/ExoPlayer-r1.5.11/demo/buildout/intermediates/res/merged/debug/layout/player_activity.xml",
+        "source": "/home/gauravbg/Downloads/ExoPlayer-r1.5.11/demo/src/main/res/layout/player_activity.xml"
+    },
+    {
+        "merged": "/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/demo/buildout/intermediates/res/merged/debug/layout/sample_chooser_activity.xml",
+        "source": "/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/demo/src/main/res/layout/sample_chooser_activity.xml"
+    }
+]

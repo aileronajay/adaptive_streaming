@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">ExoPlayer Extensions Demo</string>
+    <string name="choose_file">Choose File</string>
+    <string name="current_path">
+    Path: <ns1:g example="/sdcard/test.webm" id="path">%1$s</ns1:g>
+  </string>
+    <string name="libopus_version">
+    Libopus: <ns1:g id="path">%1$s</ns1:g>
+  </string>
+    <string name="libvpx_version">
+    Libvpx: <ns1:g id="path">%1$s</ns1:g>
+  </string>
+    <string name="play">Play</string>
+    <string name="storage_permission_denied">Permission to access storage was denied</string>
+    <style name="PlayerTheme" parent="@style/RootTheme">
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowBackground">@android:color/black</item>
+  </style>
+    <style name="RootTheme" parent="android:Theme"/>
+</resources>
