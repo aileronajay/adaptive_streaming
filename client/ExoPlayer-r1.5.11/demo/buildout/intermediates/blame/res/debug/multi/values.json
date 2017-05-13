@@ -1,0 +1,860 @@
+[
+    {
+        "outputFile": "/home/gauravbg/Downloads/ExoPlayer-r1.5.11/demo/buildout/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 57,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "/home/gauravbg/Downloads/ExoPlayer-r1.5.11/demo/src/main/res/values/constants.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 788,
+                        "endColumn": 55,
+                        "endOffset": 841
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 59,
+                    "endOffset": 218
+                },
+                "from": {
+                    "file": "/home/gauravbg/Downloads/ExoPlayer-r1.5.11/demo/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 807,
+                        "endColumn": 57,
+                        "endOffset": 862
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 223,
+                    "endColumn": 39,
+                    "endOffset": 258
+                },
+                "from": {
+                    "file": "/home/gauravbg/Downloads/ExoPlayer-r1.5.11/demo/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 2,
+                        "startOffset": 975,
+                        "endColumn": 37,
+                        "endOffset": 1010
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 263,
+                    "endColumn": 70,
+                    "endOffset": 329
+                },
+                "from": {
+                    "file": "/home/gauravbg/Downloads/ExoPlayer-r1.5.11/demo/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 866,
+                        "endColumn": 68,
+                        "endOffset": 932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 334,
+                    "endColumn": 106,
+                    "endOffset": 436
+                },
+                "from": {
+                    "file": "/home/gauravbg/Downloads/ExoPlayer-r1.5.11/demo/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 2,
+                        "startOffset": 1270,
+                        "endColumn": 104,
+                        "endOffset": 1372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 441,
+                    "endColumn": 75,
+                    "endOffset": 512
+                },
+                "from": {
+                    "file": "/home/gauravbg/Downloads/ExoPlayer-r1.5.11/demo/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 2,
+                        "startOffset": 1485,
+                        "endColumn": 73,
+                        "endOffset": 1556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 517,
+                    "endColumn": 109,
+                    "endOffset": 622
+                },
+                "from": {
+                    "file": "/home/gauravbg/Downloads/ExoPlayer-r1.5.11/demo/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 2,
+                        "startOffset": 1376,
+                        "endColumn": 107,
+                        "endOffset": 1481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 627,
+                    "endColumn": 123,
+                    "endOffset": 746
+                },
+                "from": {
+                    "file": "/home/gauravbg/Downloads/ExoPlayer-r1.5.11/demo/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 2,
+                        "startOffset": 1909,
+                        "endColumn": 125,
+                        "endOffset": 2032
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 751,
+                    "endColumn": 122,
+                    "endOffset": 869
+                },
+                "from": {
+                    "file": "/home/gauravbg/Downloads/ExoPlayer-r1.5.11/demo/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 2,
+                        "startOffset": 1560,
+                        "endColumn": 124,
+                        "endOffset": 1682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 874,
+                    "endColumn": 136,
+                    "endOffset": 1006
+                },
+                "from": {
+                    "file": "/home/gauravbg/Downloads/ExoPlayer-r1.5.11/demo/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 2,
+                        "startOffset": 1686,
+                        "endColumn": 138,
+                        "endOffset": 1822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1011,
+                    "endColumn": 83,
+                    "endOffset": 1090
+                },
+                "from": {
+                    "file": "/home/gauravbg/Downloads/ExoPlayer-r1.5.11/demo/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 2,
+                        "startOffset": 1826,
+                        "endColumn": 81,
+                        "endOffset": 1905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1095,
+                    "endColumn": 43,
+                    "endOffset": 1134
+                },
+                "from": {
+                    "file": "/home/gauravbg/Downloads/ExoPlayer-r1.5.11/demo/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 2,
+                        "startOffset": 1051,
+                        "endColumn": 41,
+                        "endOffset": 1090
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1139,
+                    "endColumn": 49,
+                    "endOffset": 1184
+                },
+                "from": {
+                    "file": "/home/gauravbg/Downloads/ExoPlayer-r1.5.11/demo/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 2,
+                        "startOffset": 1094,
+                        "endColumn": 47,
+                        "endOffset": 1139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1189,
+                    "endColumn": 51,
+                    "endOffset": 1236
+                },
+                "from": {
+                    "file": "/home/gauravbg/Downloads/ExoPlayer-r1.5.11/demo/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 2,
+                        "startOffset": 1143,
+                        "endColumn": 49,
+                        "endOffset": 1190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1241,
+                    "endColumn": 37,
+                    "endOffset": 1274
+                },
+                "from": {
+                    "file": "/home/gauravbg/Downloads/ExoPlayer-r1.5.11/demo/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 2,
+                        "startOffset": 1233,
+                        "endColumn": 35,
+                        "endOffset": 1266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1279,
+                    "endColumn": 39,
+                    "endOffset": 1314
+                },
+                "from": {
+                    "file": "/home/gauravbg/Downloads/ExoPlayer-r1.5.11/demo/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 2,
+                        "startOffset": 1194,
+                        "endColumn": 37,
+                        "endOffset": 1229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1319,
+                    "endColumn": 93,
+                    "endOffset": 1408
+                },
+                "from": {
+                    "file": "/home/gauravbg/Downloads/ExoPlayer-r1.5.11/demo/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 2,
+                        "startOffset": 2036,
+                        "endColumn": 91,
+                        "endOffset": 2125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1413,
+                    "endColumn": 37,
+                    "endOffset": 1446
+                },
+                "from": {
+                    "file": "/home/gauravbg/Downloads/ExoPlayer-r1.5.11/demo/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 2,
+                        "startOffset": 1014,
+                        "endColumn": 35,
+                        "endOffset": 1047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1451,
+                    "endColumn": 39,
+                    "endOffset": 1486
+                },
+                "from": {
+                    "file": "/home/gauravbg/Downloads/ExoPlayer-r1.5.11/demo/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 936,
+                        "endColumn": 37,
+                        "endOffset": 971
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1491,
+                    "endLine": 25,
+                    "endColumn": 10,
+                    "endOffset": 1690
+                },
+                "from": {
+                    "file": "/home/gauravbg/Downloads/ExoPlayer-r1.5.11/demo/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 2,
+                        "startOffset": 1000,
+                        "endLine": 30,
+                        "endColumn": 10,
+                        "endOffset": 1199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1695,
+                    "endLine": 29,
+                    "endColumn": 10,
+                    "endOffset": 1879
+                },
+                "from": {
+                    "file": "/home/gauravbg/Downloads/ExoPlayer-r1.5.11/demo/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 812,
+                        "endLine": 24,
+                        "endColumn": 10,
+                        "endOffset": 996
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1884,
+                    "endLine": 31,
+                    "endColumn": 10,
+                    "endOffset": 1947
+                },
+                "from": {
+                    "file": "/home/gauravbg/Downloads/ExoPlayer-r1.5.11/demo/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 745,
+                        "endLine": 19,
+                        "endColumn": 10,
+                        "endOffset": 808
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/demo/buildout/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 57,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/demo/src/main/res/values/constants.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 788,
+                        "endColumn": 55,
+                        "endOffset": 841
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 59,
+                    "endOffset": 218
+                },
+                "from": {
+                    "file": "/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/demo/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 807,
+                        "endColumn": 57,
+                        "endOffset": 862
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 223,
+                    "endColumn": 39,
+                    "endOffset": 258
+                },
+                "from": {
+                    "file": "/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/demo/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 2,
+                        "startOffset": 975,
+                        "endColumn": 37,
+                        "endOffset": 1010
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 263,
+                    "endColumn": 70,
+                    "endOffset": 329
+                },
+                "from": {
+                    "file": "/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/demo/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 866,
+                        "endColumn": 68,
+                        "endOffset": 932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 334,
+                    "endColumn": 106,
+                    "endOffset": 436
+                },
+                "from": {
+                    "file": "/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/demo/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 2,
+                        "startOffset": 1270,
+                        "endColumn": 104,
+                        "endOffset": 1372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 441,
+                    "endColumn": 75,
+                    "endOffset": 512
+                },
+                "from": {
+                    "file": "/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/demo/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 2,
+                        "startOffset": 1485,
+                        "endColumn": 73,
+                        "endOffset": 1556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 517,
+                    "endColumn": 109,
+                    "endOffset": 622
+                },
+                "from": {
+                    "file": "/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/demo/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 2,
+                        "startOffset": 1376,
+                        "endColumn": 107,
+                        "endOffset": 1481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 627,
+                    "endColumn": 123,
+                    "endOffset": 746
+                },
+                "from": {
+                    "file": "/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/demo/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 2,
+                        "startOffset": 1909,
+                        "endColumn": 125,
+                        "endOffset": 2032
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 751,
+                    "endColumn": 122,
+                    "endOffset": 869
+                },
+                "from": {
+                    "file": "/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/demo/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 2,
+                        "startOffset": 1560,
+                        "endColumn": 124,
+                        "endOffset": 1682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 874,
+                    "endColumn": 136,
+                    "endOffset": 1006
+                },
+                "from": {
+                    "file": "/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/demo/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 2,
+                        "startOffset": 1686,
+                        "endColumn": 138,
+                        "endOffset": 1822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1011,
+                    "endColumn": 83,
+                    "endOffset": 1090
+                },
+                "from": {
+                    "file": "/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/demo/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 2,
+                        "startOffset": 1826,
+                        "endColumn": 81,
+                        "endOffset": 1905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1095,
+                    "endColumn": 43,
+                    "endOffset": 1134
+                },
+                "from": {
+                    "file": "/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/demo/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 2,
+                        "startOffset": 1051,
+                        "endColumn": 41,
+                        "endOffset": 1090
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1139,
+                    "endColumn": 49,
+                    "endOffset": 1184
+                },
+                "from": {
+                    "file": "/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/demo/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 2,
+                        "startOffset": 1094,
+                        "endColumn": 47,
+                        "endOffset": 1139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1189,
+                    "endColumn": 51,
+                    "endOffset": 1236
+                },
+                "from": {
+                    "file": "/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/demo/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 2,
+                        "startOffset": 1143,
+                        "endColumn": 49,
+                        "endOffset": 1190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1241,
+                    "endColumn": 37,
+                    "endOffset": 1274
+                },
+                "from": {
+                    "file": "/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/demo/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 2,
+                        "startOffset": 1233,
+                        "endColumn": 35,
+                        "endOffset": 1266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1279,
+                    "endColumn": 39,
+                    "endOffset": 1314
+                },
+                "from": {
+                    "file": "/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/demo/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 2,
+                        "startOffset": 1194,
+                        "endColumn": 37,
+                        "endOffset": 1229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1319,
+                    "endColumn": 93,
+                    "endOffset": 1408
+                },
+                "from": {
+                    "file": "/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/demo/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 2,
+                        "startOffset": 2036,
+                        "endColumn": 91,
+                        "endOffset": 2125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1413,
+                    "endColumn": 37,
+                    "endOffset": 1446
+                },
+                "from": {
+                    "file": "/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/demo/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 2,
+                        "startOffset": 1014,
+                        "endColumn": 35,
+                        "endOffset": 1047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1451,
+                    "endColumn": 39,
+                    "endOffset": 1486
+                },
+                "from": {
+                    "file": "/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/demo/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 936,
+                        "endColumn": 37,
+                        "endOffset": 971
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1491,
+                    "endLine": 25,
+                    "endColumn": 10,
+                    "endOffset": 1690
+                },
+                "from": {
+                    "file": "/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/demo/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 2,
+                        "startOffset": 1000,
+                        "endLine": 30,
+                        "endColumn": 10,
+                        "endOffset": 1199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1695,
+                    "endLine": 29,
+                    "endColumn": 10,
+                    "endOffset": 1879
+                },
+                "from": {
+                    "file": "/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/demo/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 812,
+                        "endLine": 24,
+                        "endColumn": 10,
+                        "endOffset": 996
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1884,
+                    "endLine": 31,
+                    "endColumn": 10,
+                    "endOffset": 1947
+                },
+                "from": {
+                    "file": "/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/demo/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 745,
+                        "endLine": 19,
+                        "endColumn": 10,
+                        "endOffset": 808
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExoPlayer-r1.5.11.iml" filepath="$PROJECT_DIR$/ExoPlayer-r1.5.11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_ext/demo-ext.iml" filepath="$PROJECT_DIR$/demo_ext/demo-ext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/flac/extension-flac.iml" filepath="$PROJECT_DIR$/extensions/flac/extension-flac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/okhttp/extension-okhttp.iml" filepath="$PROJECT_DIR$/extensions/okhttp/extension-okhttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/opus/extension-opus.iml" filepath="$PROJECT_DIR$/extensions/opus/extension-opus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/vp9/extension-vp9.iml" filepath="$PROJECT_DIR$/extensions/vp9/extension-vp9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/playbacktests/playbacktests.iml" filepath="$PROJECT_DIR$/playbacktests/playbacktests.iml" />
+    </modules>
+  </component>
+</project>

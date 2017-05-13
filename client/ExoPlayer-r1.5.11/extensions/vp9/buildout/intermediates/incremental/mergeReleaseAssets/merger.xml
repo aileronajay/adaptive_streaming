@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/extensions/vp9/src/main/assets"/><source path="/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/extensions/vp9/buildout/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/extensions/vp9/src/release/assets"/></dataSet></merger>

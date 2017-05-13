@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/library/buildout/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="176048ac55d8cb3873be5a3fa49756e038e0afe8">
+        <dex dex="/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/demo/buildout/intermediates/pre-dexed/debug/classes_27e4fc3b8b15d01e0e6046a8961ae25881dab018.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/demo/buildout/intermediates/res/merged/debug/drawable-xxxhdpi/ic_launcher.png",
+        "source": "/Users/ajasaxen/Documents/homeworks/fcn/project/ExoPlayer-r1.5.11/demo/src/main/res/drawable-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/gauravbg/Downloads/ExoPlayer-r1.5.11/demo/buildout/intermediates/res/merged/debug/drawable-xxxhdpi/ic_launcher.png",
+        "source": "/home/gauravbg/Downloads/ExoPlayer-r1.5.11/demo/src/main/res/drawable-xxxhdpi/ic_launcher.png"
+    }
+]
